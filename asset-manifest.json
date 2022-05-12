@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CopySM/static/css/main.7bad788a.css",
+    "main.js": "/CopySM/static/js/main.2c68a993.js",
+    "static/media/Hero-img.png": "/CopySM/static/media/Hero-img.5585a5d9345f58389ab1.png",
+    "static/media/Hero-bg.png": "/CopySM/static/media/Hero-bg.282c06d3f27044911f37.png",
+    "static/media/Fail.png": "/CopySM/static/media/Fail.9eb101bd0f87c3e4f9d3.png",
+    "static/media/Logo.png": "/CopySM/static/media/Logo.1a112aa7a258ebfbf5a4.png",
+    "static/media/heading-bg.png": "/CopySM/static/media/heading-bg.aed960a73221c96ffaa4.png",
+    "static/media/arrow-right.png": "/CopySM/static/media/arrow-right.fd58ddcaf3316e83da5a.png",
+    "static/media/Success.png": "/CopySM/static/media/Success.2f2f7a713c34e528f5b0.png",
+    "index.html": "/CopySM/index.html",
+    "main.7bad788a.css.map": "/CopySM/static/css/main.7bad788a.css.map",
+    "main.2c68a993.js.map": "/CopySM/static/js/main.2c68a993.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bad788a.css",
+    "static/js/main.2c68a993.js"
+  ]
+}
